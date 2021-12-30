@@ -1,2 +1,11 @@
-# atm-machine
-basic python code that provides a username password combo and allows user to banking stuff
+# Atm-Machine
+Created a Username-Password comination in Python with an MySQL Database that allows user/account holder to 
+<br>
+-create an account
+<br>
+-withdraw
+<br>
+-deposit
+<br>
+-check balance 
+<br>
