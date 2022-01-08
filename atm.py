@@ -20,7 +20,7 @@ new_balance={
 
 pos="yyesYESYYes"
 
-print("\n\n                                                     Welcome to The ATN Bank !!!                                            \n")
+print("\n\n                                                     Welcome to The GNB Bank !!!                                            \n")
 #if an existing customer 
 are_user=input("Do you have an account? ")
 print("\n")
