@@ -1,0 +1,6 @@
+First try to make pass encryt user-db without using SQL for user to make an account,withdraw,check balance etc.
+Bugs Present/Stuff to work on:
+1.making the passwd encrypted
+2.proper DB-create UserID for each user-usename already exists-new user saving-combinations,balance,deposit and new balance
+3.only deposit problem
+4.for y and n if any charecter is used it accepts
